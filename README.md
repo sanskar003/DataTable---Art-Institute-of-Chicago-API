@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+[View the app here](https://artinstituteapi.pages.dev/)
+
 
 🎨 Artwork DataTable — React + PrimeReact + Server‑Side Pagination
 This project implements a fully functional DataTable using React, Vite, and PrimeReact, following strict assignment requirements. It demonstrates server‑side pagination, multi‑row selection, and controlled UI behavior without storing any row objects in state.
