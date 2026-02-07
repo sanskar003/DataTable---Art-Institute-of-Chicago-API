@@ -67,7 +67,7 @@ npm run preview
 
 🌐 Deployment (Railway)
 The project is deployed using Railway.
-Build and start commands:
+Build and start commands
 npm run build
 npm run start
 
